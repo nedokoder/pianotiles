@@ -1,5 +1,4 @@
 import pyautogui
-import keyboard
 from multiprocessing import Process
 from tkinter import *
 from tkinter import messagebox
